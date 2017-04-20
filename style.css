@@ -1,0 +1,22 @@
+.sprite-emojis{
+    display: inline-block;
+    background: url('http://sourcedigit.com/wp-content/uploads/2014/06/Google-Emoji-List-Emoji.jpg');
+    background-repeat: no-repeat;
+    width: 34px;
+    height: 35px;
+  
+}
+
+.emojis-happy {
+    background-position: -66px 0;
+}
+
+.emojis-fakeSmile {
+    background-position: -99px 0;
+}
+
+.emojis-wink {
+    background-position: -165px 0;
+}
+
+/** URL EMOJIS http://sourcedigit.com/wp-content/uploads/2014/06/Google-Emoji-List-Emoji.jpg **/
